@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_i4w_lxv_pvb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Title</title>
+    <shortdesc> Evry</shortdesc>
     <taskbody>
         <context>
             <p></p>
+            <codeblock id="codeblock_hkg_wxv_pvb" outputclass="language-json">fsgfg</codeblock>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click </cmd>
+            </step>
+            <step>
+                <cmd>install</cmd>
+                <stepresult/>
             </step>
         </steps>
     </taskbody>
